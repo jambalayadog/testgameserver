@@ -1,0 +1,4 @@
+cardsanddice-linux.ucas filter=lfs diff=lfs merge=lfs -text
+cardsanddice filter=lfs diff=lfs merge=lfs -text
+cardsanddice.debug filter=lfs diff=lfs merge=lfs -text
+cardsanddice.sym filter=lfs diff=lfs merge=lfs -text
